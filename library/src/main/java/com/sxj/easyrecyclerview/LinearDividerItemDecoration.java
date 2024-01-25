@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.hippo.easyrecyclerview;
+package com.sxj.easyrecyclerview;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;

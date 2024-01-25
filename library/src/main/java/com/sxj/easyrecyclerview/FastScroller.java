@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.hippo.easyrecyclerview;
+package com.sxj.easyrecyclerview;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;
@@ -29,6 +29,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewConfiguration;
 
+import com.hippo.easyrecyclerview.R;
 import com.hippo.yorozuya.AnimationUtils;
 import com.hippo.yorozuya.LayoutUtils;
 import com.hippo.yorozuya.MathUtils;

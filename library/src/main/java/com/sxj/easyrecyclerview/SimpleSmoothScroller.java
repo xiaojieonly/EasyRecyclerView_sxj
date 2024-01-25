@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.hippo.easyrecyclerview;
+package com.sxj.easyrecyclerview;
 
 import android.content.Context;
 import android.support.v7.widget.LinearSmoothScroller;
